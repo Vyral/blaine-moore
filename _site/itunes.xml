@@ -1,122 +1,527 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title>Nevada Real Estate Podcast with Blaine Moore</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Chase international - your professional Nevada Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2018-05-10 10:37:43 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Blaine Moore</managingEditor>
+    <lastBuildDate>2018-05-29 15:58:25 -0500</lastBuildDate>
+    <media:copyright>Blaine Moore</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>bmoore@chaseinternational.com</itunes:email>
+      <itunes:name>Blaine Moore</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Blaine Moore</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Nevada Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Chase international - your professional Nevada Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>What Does It Mean to Be Offer-Ready?</title>
+        <link>localhost:4000/what-does-it-mean-to-be-offer-ready.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+          <category>Home Buyer Tips</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2018-04-18 09:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+being+ready+in+this+market+April+2.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What does it take to be ready to act in this market? Michelle from New American Funding is here to discuss.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Today, I’m here with Michelle Piccinini from New American Funding to talk about market inventory. How can you be offer-ready in this market?
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+According to Michelle, being offer-ready refers to the low amount of inventory we’re seeing in the market. Houses are going fast, and multiple offers are more and more common.
 
-“This is an example of a pull quote”
+If you’re offer-ready, it means that you’re pre-approved, you have a letter in hand, and you’re ready to go. When you’re offer-ready, you’re prepared to take immediate action when the right home comes on the market. Because of the multiple offers we’ve seen, many of those offers are coming in over asking price.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“When you’re offer-ready, if that perfect home becomes available on the market, you’ll be ready to write an offer on it right away.”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+On the lending side of things, we’ve seen many appraisals come in low. Yes, you got into contract, you won, and it is your home, but now you still have the financing contingency. When the appraisal is done, properties are increasing in values, but we aren’t seeing homes closing at a fast enough rate to justify the value. From a lending perspective, we just want to make sure that you’re prepared.
+
+If there’s a situation in which a home comes in $10,000 under what you’ve agreed to offer, we now have a situation on our hands: will the seller agree to drop the price? Do we have the money from the buyer to make up that difference, or does the whole thing fall apart?
+
+In this crazy market, it’s wise to work with an experienced agent and lender who can help you navigate situations. That’s why we are here.
+
+If you have any questions, please reach out to us. We would love to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+being+ready+in+this+market+April+2.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+being+ready+in+this+market+April+2.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+What does it take to be ready to act in this market? Michelle from New American Funding is here to discuss.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+What does it take to be ready to act in this market? Michelle from New American Funding is here to discuss.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>A Quick Look at Our Reno/Sparks Real Estate Market</title>
+        <link>localhost:4000/a-quick-look-at-our-renosparks-real.html</link>
         
-          <category>Market Update</category>
+          <category>Reno-Sparks Market Update</category>
         
-          <category>Real Estate</category>
+        <author>Blaine Moore</author>
+        <pubDate>2018-04-10 15:18:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4</guid>
+        <description>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+What’s been going on lately in our Reno/Sparks area real estate market? It’s time for another market update.
+
+Last month, there were 439 sales at a median price of $370,000. There are currently 526 homes on the market. This constitutes about 1.25 months’ worth of supply. In other words, if no other homes came on the market it would take 1.25 months for us to run out of listings.
+
+“In today’s hot market, buyers and sellers must be strategic.”
+
+This means buyers and sellers must be strategic. Buyers need to be offer-ready. So, if you have plans to purchase a home, make sure you get pre-approved and get in touch with an agent.
+
+As for sellers, those looking to list need to be careful about pricing. The best way to sell your home is by pricing it correctly from the start. Overpricing your listing would be a costly mistake.
+
+If you have any other questions about our current real estate market, just give me a call or send me an email. I would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Interest Rates Are on the Rise</title>
+        <link>localhost:4000/interest-rates.html</link>
+        
+          <category>Reno-Sparks Market Update</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2018-03-09 12:36:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4</guid>
+        <description>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+What’s been going on lately in our Reno/Sparks area real estate market? It’s time for another market update.
+
+Last month, there were 439 sales at a median price of $370,000. There are currently 526 homes on the market. This constitutes about 1.25 months’ worth of supply. In other words, if no other homes came on the market it would take 1.25 months for us to run out of listings.
+
+“In today’s hot market, buyers and sellers must be strategic.”
+
+This means buyers and sellers must be strategic. Buyers need to be offer-ready. So, if you have plans to purchase a home, make sure you get pre-approved and get in touch with an agent.
+
+As for sellers, those looking to list need to be careful about pricing. The best way to sell your home is by pricing it correctly from the start. Overpricing your listing would be a costly mistake.
+
+If you have any other questions about our current real estate market, just give me a call or send me an email. I would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+A+Quick+Look+at+Our+Reno-Sparks+Real+Estate+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+What’s been going on in our local market? It’s time to take a look at our latest market update.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Look Ahead to Our 2018 Market</title>
+        <link>localhost:4000/a-look-ahead-to-our-2018-market.html</link>
+        
+          <category>Reno-Sparks Market Update</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2018-01-23 11:39:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/A+Look+Ahead+to+Our+2018+Market.mp4</guid>
+        <description>
+
+Interest rates, the new tax plan, inventory levels, and rate increases for both vacancies and rentals will all have a significant impact on our market in 2018.
+
+There are a few factors that will impact how our market performs in 2018 that you need to be aware of.
+
+The first is interest rates. If the Federal Reserve raises interest rates four times like they’re predicting, it will reduce buyers’ purchasing power and reduce the steady price increases we’ve been seeing. With this reduced affordability among buyers, home values may dip a little bit.
+
+The second factor is the tax plan that was approved last December. It will be especially interesting to see how this will affect Californians in the move-over market.
+
+“If you’re a buyer, you have to be ready to write an offer on something you like as soon as you come across it.”
+
+The third and most important factor is the inventory levels. Currently, we have a 1.5-month supply, which means if you’re a buyer, you have to be motivated and ready to write an offer on something you like as soon as you come across it. You might also find yourself in a multiple offer situation, so make sure you work with an agent who’s experienced in that scenario.
+
+Lastly, you have rate increases for both vacancies and rentals. There is very low inventory in the rental market. Back in November 2017, we had the fourth-largest price increase for rentals in the entire country.
+
+If you have any more questions about our market or you’re interested in buying or selling, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/A+Look+Ahead+to+Our+2018+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/A+Look+Ahead+to+Our+2018+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Interest rates, the new tax plan, inventory levels, and rate increases for both vacancies and rentals will all have a significant impact on our market in 2018.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+Interest rates, the new tax plan, inventory levels, and rate increases for both vacancies and rentals will all have a significant impact on our market in 2018.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Loan Limits Are Changing in Washoe County</title>
+        <link>localhost:4000/loan-limits-are-changing-in-washoe.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2018-01-08 12:13:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Loan+Limits+Are+Changing+in+Washoe+County.mp4</guid>
+        <description>
+
+Loan limits are being increased in Washoe County, which is good news for both buyers and sellers. Here’s why.
+
+Big changes are happening with loan limits in Washoe County this year.
+
+Basically, these changes will give you more of an opportunity to secure an FHA, VA, or conventional loan at higher price points.
+
+Currently, the maximum loan limit for Fannie Mae and Freddie Mac is sitting at $424,100, and they’re increasing that limit to $453,100. Now, you can start looking for homes in the $475,00 price range and still only put 5% down. If you don’t have as much to put down as you like, you’ll be able to get into a market you’ll be happy with.
+
+The FHA loan limit will increase from $345,000 to $370,300, so they’re starting to build back up to that $403,000 price point they were at in 2008 and 2009. If you need an FHA loan to get back into the market because you’ve perhaps had a foreclosure or a short sale in the past, this will help get you a home you’re happy with.
+
+“These changes give buyers more options on the loan side.”
+
+With the direction of home prices trending upward, these changes give you more options on the loan side. If you’re a seller, this is also good news because it increases buyers’ affordability.
+
+If you’d like to get pre-approved for a loan or you have any questions regarding any of these changes, don’t hesitate to reach out to us. We’d be happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Loan+Limits+Are+Changing+in+Washoe+County.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Loan+Limits+Are+Changing+in+Washoe+County.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Loan limits are being increased in Washoe County, which is good news for both buyers and sellers. Here’s why.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+Loan limits are being increased in Washoe County, which is good news for both buyers and sellers. Here’s why.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Items Will You Need to Get Pre-Approved?</title>
+        <link>localhost:4000/what-items-will-you-need-to-get-pre.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2017-11-17 11:59:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+What+Items+Will+You+Need+to+Get+Pre-Approved%253F.mp4</guid>
+        <description>
+
+Today, Michelle from New American Funding will discuss both rates and what items you’ll need in order to get pre-approved to purchase a home.
+
+Today I have with me a special guest, Michelle from New American Funding, to talk about rates and the items you’ll need in order to get pre-approved.
+
+Michelle, how are the rates?
+
+The rates are good! I feel like every time I’m here, I’m always talking about how rates should be going up, but we’re still not seeing that. Rates are still trending in the mid-to-low fours. For a buyer right now, it’s amazing to say that we’re almost to the end of 2017 and rates aren’t in the 5% range as was predicted.
+
+I don’t know if we’re going to see a drop into the low threes like I know everybody wants, but take advantage of the fact that we’re still in the fours. A first-time homebuyer with good credit can still get a really good rate right now.
+
+“The standard deduction has increased to $12,000.”
+
+What items will a potential buyer need in order to get pre-approved?
+
+Basically, we’re going to require your first-born and a blood sample.
+
+I’m kidding! But it does feel very, very intrusive. The reason is that we are now in a mortgage arena that we have to document every piece of information that is relevant to your file. We’re looking at your income, your assets, and any properties you may own. We’re going to need pay stubs, tax returns, and similar documents to make sure that you can qualify to pay the mortgage, and we need to check your bank statements to make sure you have the funds available.
+
+A lot of people confuse pre-approval with pre-qualification. Pre-qualification is essentially where you tell someone your information and that’s it. They don’t verify it. A seller and their listing agent will need to know that I’ve verified everything the buyer has given me and that I’m not just saying, “Okay, let’s go!”
+
+We want you to understand that we’re here every step of the way, and we’re going to ask you these questions and collect this documentation so that you are a truly qualified buyer and you’re ready to go.
+
+If you have any questions about buying, selling, or getting pre-approved, feel free to contact us. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+What+Items+Will+You+Need+to+Get+Pre-Approved%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+What+Items+Will+You+Need+to+Get+Pre-Approved%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Things to Know as a Move-Up Buyer</title>
+        <link>localhost:4000/things-to-know-as-move-up-buyer.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2017-11-03 11:28:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+Things+to+Know+as+a+Move-Up+Buyer.mp4</guid>
+        <description>
+
+oday, I’ll be talking about things move-up buyers will need to know when undergoing the process of selling their house in order to buy a new one.
+
+The topic I’d like to discuss today is about selling a home in order to buy a home. Realtors call this kind of buyer a move-up buyer.
+
+There are a lot of reasons why someone would want to sell their home and immediately buy a new one: growing families, switching school districts, downsizing, and more. You’ll need a real estate professional to assist you in this process because there are a lot of moving parts in the transaction.
+
+The first step you should take is getting an evaluation of your house —how much is your current property worth? What are you going to do with the profit from the sale of your home? Are you going to get financing, or are you going to take the profit and pay cash? Once you know whether or not you’ll take the financing or cash route, then we can get your house on the market.
+
+“The first step you should take is getting an evaluation of your house—how much is your current property worth?”
+
+In our current market here in Reno, nobody is going to take a look at an offer from someone who’s current home isn’t on the market. You have to be on the MLS for another seller to take a contingent offer.
+
+Once you get your home on the market and you’ve found a home you want to purchase, then there are timelines, contingencies, and home inspections (both for your own property and the one you want) to consider.
+
+You really will need a real estate professional to help manage that process for you. There are a lot of moving parts that a professional will be equipped to handle.
+
+If you’re thinking about moving up, moving down, or changing school districts, please reach out to me and I’d love to help you with the process.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+Things+to+Know+as+a+Move-Up+Buyer.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+Things+to+Know+as+a+Move-Up+Buyer.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+oday, I’ll be talking about things move-up buyers will need to know when undergoing the process of selling their house in order to buy a new one.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+oday, I’ll be talking about things move-up buyers will need to know when undergoing the process of selling their house in order to buy a new one.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buying New Home Construction? Beware of These Agent Tricks</title>
+        <link>localhost:4000/buying-new-home-construction-beware-of.html</link>
+        
+          <category>Construction in Reno</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2017-09-26 09:26:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Buying%20New%20Home%20Construction%253F%20Beware%20of%20These%20Agent%20Tricks.mp4</guid>
+        <description>
+
+When buying a new construction home, don’t let the builder’s agent automatically talk you into letting them represent you and using their lender.
+
+There are a couple important things you should know about new home construction and the lending process that goes with it.
+
+The agents who represent the builders don’t represent you. If you were to use them, you wouldn’t have anybody looking out for your best interest. This stipulation is actually stated in their contract.
+
+“Don’t just walk into a pretty sales office without representation.”
+
+The builder’s agent also would prefer you to use the builder’s lender, but you still have a choice, and you still deserve a choice. It’s no different than if you were working with a normal seller—just make sure you’re looking for financing options that suit your needs.
+
+Understand that the builder’s agent will make the builder’s lender very appealing. They’ll give you credits and make it look like they’re throwing money at you. They also might scare you into thinking you might not close on time and that it will cost you more not to use them.
+
+You need to double-check, though, to verify that the fees you’re being charged relate to what you should actually pay and you’re not getting “credits” that only cover the added fees being charged by the builder. Talk to your own lender, compare apples to apples with them, and make sure you do your due diligence.
+
+If you have any questions about new home construction or you want to talk more about new home financing, don’t hesitate to reach out to us. We’d be happy to speak with you.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Buying%20New%20Home%20Construction%253F%20Beware%20of%20These%20Agent%20Tricks.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Buying%20New%20Home%20Construction%253F%20Beware%20of%20These%20Agent%20Tricks.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+When buying a new construction home, don’t let the builder’s agent automatically talk you into letting them represent you and using their lender.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+When buying a new construction home, don’t let the builder’s agent automatically talk you into letting them represent you and using their lender.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is the Fall a Good Time to Buy or Sell a Home?</title>
+        <link>localhost:4000/is-fall-good-time-to-buy-or-sell-home.html</link>
+        
+          <category>Reno-Sparks Market Update</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2017-09-06 14:12:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Is%20the%20Fall%20a%20Good%20Time%20to%20Buy%20or%20Sell%20a%20Home%253F.mp4</guid>
+        <description>
+
+Here’s what you can expect from the Reno market this fall whether you’re buying or selling.
+
+Our market typically peaks in July and August, and 2017 was no different. Right now, the Reno market is starting to slow down. Here’s what that means for buyers and sellers.
+
+For sellers, it means that you’ll have much less competition if you list your home this fall than if you would have listed in the summer. This makes it more likely you’ll receive more (and higher) offers from potential buyers. As far as buyers are concerned, the low inventory is going to make things competitive.
+
+“Low inventory will make things more competitive for buyers.”
+
+In July, we sold over 600 homes. However, last October we sold 550. As you can see, there is still plenty of activity in the market during fall. If you’re thinking about buying or selling a Reno home in the next few months, there’s a great opportunity out there for you to do that.
+
+If you have any questions for me or you’re interested in buying or selling a Reno home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Is%20the%20Fall%20a%20Good%20Time%20to%20Buy%20or%20Sell%20a%20Home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20Is%20the%20Fall%20a%20Good%20Time%20to%20Buy%20or%20Sell%20a%20Home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Here’s what you can expect from the Reno market this fall whether you’re buying or selling.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+Here’s what you can expect from the Reno market this fall whether you’re buying or selling.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>New Homebuyers in Reno Can Buy for Just 1% Down</title>
+        <link>localhost:4000/new-homebuyers-in-reno-can-buy-for-just.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Blaine Moore</author>
+        <pubDate>2017-07-05 14:46:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20New%20Homebuyers%20in%20Reno%20Can%20Buy%20for%20Just%201%2525%20Down.mp4</guid>
+        <description>
+
+New American Funding has just announced an amazing new home loan option designed for first-time homebuyers in the Reno area who don’t have as much money for a down payment as they’d like.
+
+New American Funding has a new home buying program hot off the press that we wanted to share with you today. This program is designed for first-time homebuyers and those who need some help with a down payment.
+
+The program is a 1% down option for first-time homebuyers here in the Reno area.
+
+Fannie Mae requires a 3% minimum, so what we love about this program is that New American Funding is actually offering a 2% grant to offset the requirement.
+
+“New American Funding offers a 2% grant to offset Fannie Mae’s requirement.”
+
+This is an amazing option for first-time homebuyers who don’t have the savings for a down payment currently or don’t qualify in a home buying threshold that they want to. It’s also a great opportunity for those who want to take advantage of this great market and are excited to buy a home.
+
+There are some income limitations so that they can assure the program is tailored to those who truly need the assistance.
+
+If you’re interested or just want to learn a little bit more about this loan option, give us a call or send us an email. We’d love to tell you more!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20New%20Homebuyers%20in%20Reno%20Can%20Buy%20for%20Just%201%2525%20Down.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%20New%20Homebuyers%20in%20Reno%20Can%20Buy%20for%20Just%201%2525%20Down.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+New American Funding has just announced an amazing new home loan option designed for first-time homebuyers in the Reno area who don’t have as much money for a down payment as they’d like.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+New American Funding has just announced an amazing new home loan option designed for first-time homebuyers in the Reno area who don’t have as much money for a down payment as they’d like.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Matters to Tend to Before Listing Your House for Sale</title>
+        <link>localhost:4000/3-matters-to-tend-to-before-listing.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Blaine Moore</author>
+        <pubDate>2017-05-31 09:29:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%203%20Matters%20to%20Tend%20to%20Before%20Listing%20Your%20House%20for%20Sale.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Thinking about selling your house this season? You’ll want to consider these three things before listing it for sale.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+As we reach the time of year when it gets warmer, you might be thinking about listing your house for sale. When preparing your house for the market, consider these three things:
 
+1. Curb appeal: This includes everything from the front yard to the entryway to the sidewalk and the driveway. This is especially important because according to the National Association of Realtors, 63% of buyers will drive by a house they first saw online before setting up a showing. It’s good for the house to look like what they saw online.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“63% of buyers will drive by a house they first saw online before setting up a showing.”
 
+2. Decluttering: Clear the kitchen countertops, tidy up the bathrooms, and even consider bringing in a professional cleaner. You can usually hire someone for a couple hours for about $200, which will get you a thorough cleaning and really make a difference in the showing of your house when buyers come through.
 
+3. Professional photos: You get 120% more viewings online when it’s showcased with professional photos, and more viewings mean more potential buyers. It has also been shown to make your home sell faster. Additionally, homes with professional photos average a sales price closer to asking price than homes without them. You want your home to pop and make a great first impression because you only have about 45 seconds to capture a buyer’s attention. Your agent should be able to recommend a photographer to take care of this part for you.
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you’re thinking about listing your house or you have any other questions about preparing it to sell, don’t hesitate to give me a call or send me an email. I’d be happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%203%20Matters%20to%20Tend%20to%20Before%20Listing%20Your%20House%20for%20Sale.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Blaine%20Moore/Reno%20Real%20Estate-%203%20Matters%20to%20Tend%20to%20Before%20Listing%20Your%20House%20for%20Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Thinking about selling your house this season? You’ll want to consider these three things before listing it for sale.
+
+</itunes:subtitle>
+        <itunes:author>Blaine Moore</itunes:author>
+        <itunes:summary>
+
+Thinking about selling your house this season? You’ll want to consider these three things before listing it for sale.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nevada, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Blaine Moore</copyright>
+    <media:credit role="author">Blaine Moore</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Chase international - your professional Nevada Real Estate Agents.</media:description>
   </channel>
 </rss>

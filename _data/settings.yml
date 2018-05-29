@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Nevada Real Estate Video Blog with Blaine Moore
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Blaine Moore
   title:
   license_number:
   about_markdown: |
+    There are plenty of reasons why Blaine Moore is succeeding in the real estate business, yet he’d be the first to tell you that he was just “doing what was best for my clients throughout each transaction.”
 
-  market:
-  brand:
+    Since the day he started as a Realtor in the Reno area, Blaine has become a respected voice in the business. Buyers and sellers will tell you that his charismatic personality is just the beginning of Blaine’s many attributes. From good-old-fashioned relationships to innovative online marketing, Blaine understands what it takes to move property in today’s market. Living life to the fullest, Blaine balances his career as a local coach and mentor and spends as much time as possible enjoying the great outdoors. With a drive to go ‘above and beyond the norm’, Blaine is ready to help you achieve your real estate dreams through Chase International’s Reno office.
+  market: Nevada
+  brand: Chase international
   brokerage:
-  address:
-  phone:
+  address: '985 Damonte Ranch Pkwy #110<br>Reno, NV 89521'
+  phone: 775-354-6211
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: bmoore@chaseinternational.com
+  url: http://www.nvhomelife.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.nvhomelife.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.nvhomelife.com/search/advanced_search//
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.nvhomelife.com/cma/property-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.nvhomelife.com/search/advanced_search//
 
 lender:
   show_section: false
@@ -57,16 +59,16 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/Reno-Tahoe-Real-Estate-109871809031861/
+  linkedin_url: https://www.linkedin.com/in/blaine-moore-5701b89
+  gplus_url: https://plus.google.com/103240350441987139911
+  youtube_url: https://www.youtube.com/channel/UC6cyX9kZsMJgqgoD2Ab-Pyg
+  twitter_url: https://twitter.com/bamster21
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Blaine-Moore/
+  trulia_url: http://www.trulia.com/profile/blaine-moore-agent-reno-nv-zgmcd0t2/overview
+  yelp_url: https://www.yelp.com/user_details?userid=oBl9I3bU28nxtAbjdMFMCw
   podcast_url:
 
 podcast:
@@ -87,8 +89,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#01515c'
+  theme_color: '#5a5a5c'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0

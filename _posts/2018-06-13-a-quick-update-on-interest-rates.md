@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on Interest Rates
-date: 2018-06-13 20:38:52
+date: 2018-06-13 20:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Z2YqeUUcrjM
+youtube_code: Zfvo0SAXF1E
 ---
 
 {% include youtube.html %}

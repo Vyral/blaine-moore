@@ -28,5 +28,3 @@ Finally, Michelle and New American Funding are offering some great new mortgage 
 {% include pullquote.html %}
 
 If you have any questions for Michelle about interest rates, their mortgage loans, or anything else, don’t hesitate to give her a call at (775) 501-8546. If you have any questions for me about the real estate market or you are interested in buying or selling a home, I am always here to answer them. Just give me a call or send me an email anytime.
-
-Teaser: Our friend Michelle Piccinini joined us recently to give us the latest mortgage news. Interest rates are remaining steady around 4.5%, and we are no longer seeing them in the 3% range. Michelle and her team at New American Funding also have a few unique options for homeowners who have gone through distressed sales. Typically, you have to wait seven years after a foreclosure to buy another home. With their mortgage products, you can purchase another home in just two years. To learn more, watch this short video.

@@ -51,7 +51,8 @@ lender:
   headshot_path: /img/lender.jpg
   logo_path:
   logo_path_2:
-  name: <br>Michelle Piccinini<br>NMLS# 227880
+  name: <br>Michelle Piccinini
+  license_number: NMLS# 227880
   brand: Loan Consultant
   phone: 775-501-8546<br>
 

@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Because there’s so much positivity in this market, we’re seeing an increase in
   buying power and home equity. What does this mean for you?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Blaine+Moore/Reno+Real+Estate-+Whats+Going+on+in+Our+Reno+Market+Lately%253F.mp4
 pullquote: We’ve seen an increase in buying power and equity.
 enclosure_type: video/mp4
 enclosure_time:

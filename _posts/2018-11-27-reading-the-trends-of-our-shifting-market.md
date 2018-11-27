@@ -1,7 +1,7 @@
 ---
 layout: post
-title: eading the Trends of Our Shifting Market
-date: 2018-11-27 22:44:31
+title: Reading the Trends of Our Shifting Market
+date: 2018-11-27 22:44:00
 tags:
   - Real Estate
 excerpt: >-
